@@ -1,0 +1,24 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #e9ecef;
+    margin: 0;
+    padding: 20px;
+}
+
+.main-container {
+    width: 75%;
+    margin: auto;
+}
+
+.task-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.task-items li {
+    background-color: #ffffff;
+    margin-top: 6px;
+    padding: 12px;
+    border: 1px solid #dddddd;
+}
